@@ -1,0 +1,11 @@
+D:\gnc\GNC-Club\otomasyon\otomasyon\bin\Debug\Database.accdb
+D:\gnc\GNC-Club\otomasyon\otomasyon\bin\Debug\otomasyon.exe.config
+D:\gnc\GNC-Club\otomasyon\otomasyon\bin\Debug\otomasyon.exe
+D:\gnc\GNC-Club\otomasyon\otomasyon\bin\Debug\otomasyon.pdb
+D:\gnc\GNC-Club\otomasyon\otomasyon\obj\Debug\otomasyon.csproj.AssemblyReference.cache
+D:\gnc\GNC-Club\otomasyon\otomasyon\obj\Debug\otomasyon.Form1.resources
+D:\gnc\GNC-Club\otomasyon\otomasyon\obj\Debug\otomasyon.Properties.Resources.resources
+D:\gnc\GNC-Club\otomasyon\otomasyon\obj\Debug\otomasyon.csproj.GenerateResource.cache
+D:\gnc\GNC-Club\otomasyon\otomasyon\obj\Debug\otomasyon.csproj.CoreCompileInputs.cache
+D:\gnc\GNC-Club\otomasyon\otomasyon\obj\Debug\otomasyon.exe
+D:\gnc\GNC-Club\otomasyon\otomasyon\obj\Debug\otomasyon.pdb

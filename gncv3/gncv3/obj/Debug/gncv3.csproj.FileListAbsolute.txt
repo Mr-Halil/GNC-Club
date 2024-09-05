@@ -1,0 +1,10 @@
+C:\Users\ctnib\OneDrive\Masaüstü\gncv3\gncv3\bin\Debug\gncv3.exe.config
+C:\Users\ctnib\OneDrive\Masaüstü\gncv3\gncv3\bin\Debug\gncv3.exe
+C:\Users\ctnib\OneDrive\Masaüstü\gncv3\gncv3\bin\Debug\gncv3.pdb
+C:\Users\ctnib\OneDrive\Masaüstü\gncv3\gncv3\obj\Debug\gncv3.csproj.AssemblyReference.cache
+C:\Users\ctnib\OneDrive\Masaüstü\gncv3\gncv3\obj\Debug\gncv3.Properties.Resources.resources
+C:\Users\ctnib\OneDrive\Masaüstü\gncv3\gncv3\obj\Debug\gncv3.csproj.GenerateResource.cache
+C:\Users\ctnib\OneDrive\Masaüstü\gncv3\gncv3\obj\Debug\gncv3.csproj.CoreCompileInputs.cache
+C:\Users\ctnib\OneDrive\Masaüstü\gncv3\gncv3\obj\Debug\gncv3.exe
+C:\Users\ctnib\OneDrive\Masaüstü\gncv3\gncv3\obj\Debug\gncv3.pdb
+C:\Users\ctnib\OneDrive\Masaüstü\gncv3\gncv3\obj\Debug\gncv3.stok.resources
